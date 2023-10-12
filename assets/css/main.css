@@ -2362,7 +2362,7 @@ input, select, textarea {
 				}
 
 					#nav ul li a span:before {
-						left: 60%;
+						left: 20%;
 						margin-left: 1em;
 						line-height: 2.25em;
 					}

@@ -2358,12 +2358,12 @@ input, select, textarea {
 			}
 
 				#nav ul li a span {
-					padding-right: 2.25em;
+					padding-right: 1.5em;
 				}
 
 					#nav ul li a span:before {
 						left: 100%;
-						margin-left: -1.25em;
+						margin-left: -1em;
 						line-height: 2.25em;
 					}
 

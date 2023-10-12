@@ -2362,8 +2362,8 @@ input, select, textarea {
 				}
 
 					#nav ul li a span:before {
-						left: 80%;
-						margin-left: -1em;
+						left: 60%;
+						margin-left: 1em;
 						line-height: 2.25em;
 					}
 
